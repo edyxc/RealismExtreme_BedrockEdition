@@ -29,3 +29,7 @@ This texture pack was tested on the latest Windows 10 version of Minecraft.
 ![ ](/images/OakPlanks.png)
 
 ![ ](/images/Quartz.png)
+
+
+
+### RealismExtreme and RealismExtreme: Bedrock Edition are free projects and made with love by CreepX451
