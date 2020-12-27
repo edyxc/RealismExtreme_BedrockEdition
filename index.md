@@ -10,22 +10,22 @@ REQUIREMENTS: You should have a pretty good device. An RTX GPU is highly recomme
 This texture pack was tested on the latest Windows 10 version of Minecraft.
 
 ## Here are some images:
-![GitHub Logo](/images/Bricks.png)
+![ ](/images/Bricks.png)
 
-![GitHub Logo](/images/Bedrock.png)
+![ ](/images/Bedrock.png)
 
-![GitHub Logo](/images/ChisledStoneBricks.png)
+![ ](/images/ChisledStoneBricks.png)
 
-![GitHub Logo](/images/Cobblestone.png)
+![ ](/images/Cobblestone.png)
 
-![GitHub Logo](/images/CyanTerracotta.png)
+![ ](/images/CyanTerracotta.png)
 
-![GitHub Logo](/images/DarkPrismarine.png)
+![ ](/images/DarkPrismarine.png)
 
-![GitHub Logo](/images/IronBlocks.png)
+![ ](/images/IronBlocks.png)
 
-![GitHub Logo](/images/LightGrayConcrete.png)
+![ ](/images/LightGrayConcrete.png)
 
-![GitHub Logo](/images/OakPlanks.png)
+![ ](/images/OakPlanks.png)
 
-![GitHub Logo](/images/Quartz.png)
+![ ](/images/Quartz.png)
