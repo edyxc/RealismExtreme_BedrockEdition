@@ -8,3 +8,5 @@ REQUIREMENTS:
 You should have a pretty good device. An RTX GPU is highly recommended, but not required.
 
 This texture pack was tested on the latest Windows 10 version of Minecraft.
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N12UE96)
